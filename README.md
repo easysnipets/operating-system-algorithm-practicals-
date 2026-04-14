@@ -1,8 +1,4 @@
-# operating-system-algorithm-practicals
----
-# Lab IV - (OSA)
----
-# Operating System Algorithms - Practical Programs
+# Lab-IV-Operating-System-Algorithm-Practicals
 
 ---
 
